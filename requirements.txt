@@ -11,3 +11,5 @@ opencv-python==4.1.2.30
 matplotlib==3.2.2
 imgaug
 seaborn
+unrar
+unzip
